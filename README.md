@@ -48,7 +48,7 @@ $ apt install maven default-jdk default-jre openjdk-8-jdk openjdk-8-jre -y
 $ apt install zlib1g-dev libncurses5-dev -y
 
 # Clone this repository
-$ git clone https://github.com/TheUnderMind0x41/sAINT.git
+$ git clone https://github.com/UnderMind0x41/sAINT.git
 
 # Go into the repository
 $ cd sAINT
@@ -117,8 +117,6 @@ To uninstall run <a href="https://github.com/tiagorlampert/sAINT/blob/master/con
 
 ## Contact
 :email: **tiagorlampert@gmail.com** - Original Project
-
-:email: **exxxim@gmail.com** - Kali Nethunter Edition
 
 ## License
 
