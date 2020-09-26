@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  (s)AINT is a Spyware Generator for Windows systems written in Java.
+  (s)AINT is a pentest tool Generator for Windows systems written in Java.
   It works in Kali Nethunter.
 </p>
 
